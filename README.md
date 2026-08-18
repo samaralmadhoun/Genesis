@@ -14,5 +14,5 @@ A modern and responsive web application built with React and JavaScript, featuri
 
 ## 🚀 Getting Started
 
-live demo: rococo-donut-1c30e0.netlify.app
+
 
