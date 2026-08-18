@@ -1,4 +1,4 @@
-<img width="1507" height="761" alt="image" src="https://github.com/user-attachments/assets/5f7335bf-3590-4f47-aa44-c54927d10597" />
+
 
 # Genesis Web Application
 
