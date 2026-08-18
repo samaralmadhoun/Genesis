@@ -1,4 +1,4 @@
-# Genesis Web Application
+<img width="1507" height="761" alt="image" src="https://github.com/user-attachments/assets/5f7335bf-3590-4f47-aa44-c54927d10597" /># Genesis Web Application
 
 A modern and responsive web application built with React and JavaScript, featuring a clean UI, mobile-friendly navigation, and smooth user experience.
 
@@ -13,3 +13,6 @@ A modern and responsive web application built with React and JavaScript, featuri
 * **Vite** (Build Tool)
 
 ## 🚀 Getting Started
+
+live demo: rococo-donut-1c30e0.netlify.app
+
