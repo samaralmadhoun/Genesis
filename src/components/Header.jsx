@@ -14,7 +14,7 @@ export default function Navbar() {
         
         <div className="nav-brand">
           <div className="logo-g">
-            <img src="/logo.jpg" alt="Logo" style={{ width: '30px', height: '30px', borderRadius: '4px' }} />
+            <img src="logo.jpg" alt="Logo" style={{ width: '30px', height: '30px', borderRadius: '4px' }} />
           </div>
           <span>Genesis</span>
         </div>
